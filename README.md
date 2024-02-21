@@ -39,5 +39,4 @@ Para poder ejecutar este proyecto es nesesario tener instalado Docker asi como D
 Dando un resultado como el siguiente
 ![alt text for screen readers](/docker.png )
 
-
-
+Adicionalmente se agrego un archivo  ```main_test.csv``` en cula contiene pruebas unitarias de diferentes metodos utlizados dentro de el archivo principal, estas pruebas se pueden ejecutar usando pytest
